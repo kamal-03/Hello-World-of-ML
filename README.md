@@ -1,2 +1,3 @@
-# hello-world
-my first repository
+# machine learning
+This repository conatains machine learning projects 
+
